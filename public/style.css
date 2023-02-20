@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(0, 44, 95);
+    background-image: url("https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701388961.jpg");
+}
+
+.container{
+    text-align:center;
+    background-color: rgb(46, 93, 179);
+    width:12.5%;
+    height:140px;
+    margin:12.5% auto;
+    padding:25px;
+    border-radius: 18px;
+}
+
+#title{
+    font-size:1.75em;
+    font-family: 'Tourney', cursive;
+    font-weight: bold;
+    color:white;
+}
+
+#btn{
+    width:50px;
+    height:25px;
+    border-radius: 5px;
+}
+
+#cityInp{
+    border-radius: 6px;
+    height: 25px;
+    border-style: dotted;
+}
+h3{
+    text-align:center;
+    color:rgb(243, 243, 68);
+}
+h1{
+    text-align: center;
+    color:white;
+}
+
+.title1{
+    background-color: rgb(5, 158, 163);
+    padding:10px;
+    font-family: 'Alice', serif;
+    font-size:20px;
+    
+}
